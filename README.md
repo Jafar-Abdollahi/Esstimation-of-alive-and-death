@@ -1,3 +1,37 @@
-# Esstimation-of-alive-and-death
-Esstimation of alive and death  using ML
-Hepatitis is an inflammatory illness of the liver. Chronic hepatitis causes liver inflammation that lasts at least six months. This condition can be mild, causing only slight damage, or it can be severe, resulting in the loss of many liver cells. Cirrhosis and liver failure are possible outcomes in some cases. The purpose of this project is to develop mortality prediction models for chronic hepatitis C (CHC)-related HCC using machine learning techniques.    
+# Jafar Abdollahi
+
+<h2> Discription </h2>
+
+
+
+<h2> Dataset </h2>
+<img src=" "> 
+<img src=" "> 
+
+
+<h2> Methods </h2>
+<img src=" "> 
+
+
+<h2> GUI </h2>
+<img src=" "> 
+
+
+<h2> Conlusion </h2>
+<img src=" "> 
+<img src=" "> 
+<img src=" "> 
+<img src=" "> 
+
+
+<h2> Paper </h2>
+
+<h2> Contatc me </h2>
+You can reach me at:
+
+Email: ja.abdollahi77@gmail.com
+LinkedIn: https://www.linkedin.com/in/jafar-abdollahi-7647971b3/
+Google Scholar: https://scholar.google.com/citations?user=2dK8kPwAAAAJ&hl=en
+researchgate: https://www.researchgate.net/profile/Jafar-Abdollahi?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6ImhvbWUiLCJwcmV2aW91c1BhZ2UiOiJsb2dpbiIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19
+youtube: https://www.youtube.com/@jafarabdollahi/featured
+<img src=" "> 
