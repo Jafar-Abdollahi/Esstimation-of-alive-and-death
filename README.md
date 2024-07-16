@@ -4,28 +4,6 @@
 
 
 
-<h2> Dataset </h2>
-<img src=" "> 
-<img src=" "> 
-
-
-<h2> Methods </h2>
-<img src=" "> 
-
-
-<h2> GUI </h2>
-<img src=" "> 
-
-
-<h2> Conlusion </h2>
-<img src=" "> 
-<img src=" "> 
-<img src=" "> 
-<img src=" "> 
-
-
-<h2> Paper </h2>
-
 <h2> Contact me </h2>
 You can reach me at:
 
